@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: dataset
+authors:
+- family-names: "Stokes"
+  given-names: "Peter A."
+  orcid: "https://orcid.org/0000-0002-9060-9340"
+title: "MS Images"
+version: 1.0.0
+date-released: 2019-06-06
+url: "https://github.com/pastokes/ms-images"
